@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/1-5/digital-garden/","tags":["gardenEntry"],"created":"2025-03-14T10:47:52.721+05:00","updated":"2025-03-14T21:19:39.523+05:00"}
+{"dg-publish":true,"permalink":"/1-projects/1-5/digital-garden/","tags":["gardenEntry"],"created":"2025-03-14T10:47:52.721+05:00","updated":"2025-03-14T21:57:07.478+05:00"}
 ---
 
 Publish my digital garden
@@ -10,3 +10,11 @@ Publish my digital garden
 
 
 <iframe width="901" height="507" src="https://www.youtube-nocookie.com/embed/eULVrTjT11w" title="How to Publish Obsidian Notes Online For Free(Obsidian Publish Alternative)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+```custom-frames
+frame: Todoist
+```
+````
+
