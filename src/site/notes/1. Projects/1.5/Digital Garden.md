@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/1-5/digital-garden/","tags":["gardenEntry"],"created":"2025-03-14T10:47:52.721+05:00","updated":"2025-03-14T14:35:23.282+05:00"}
+{"dg-publish":true,"permalink":"/1-projects/1-5/digital-garden/","tags":["gardenEntry"],"created":"2025-03-14T10:47:52.721+05:00","updated":"2025-03-14T17:22:45.659+05:00"}
 ---
 
 Publish my digital garden
@@ -8,3 +8,21 @@ Publish my digital garden
 
 ![image.png](/img/user/1.%20Projects/1.5/Z99%20Attachments/image.png)
 
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+# Excalidraw Data
+
+## Text Elements
+👍⭐ 
+bjk 
+
+
+</div></div>
